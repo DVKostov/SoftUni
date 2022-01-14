@@ -14,4 +14,4 @@ function solve(num1, num2) {
     console.log(start);
 };
 
-solve(2154, 458);
+solve(20, 28);
